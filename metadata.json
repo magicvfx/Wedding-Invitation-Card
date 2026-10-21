@@ -1,0 +1,6 @@
+{
+  "name": "Elegance - Digital Wedding Invitation",
+  "description": "A luxury digital wedding invitation card website featuring interactive wax seal envelope unsealing, RSVP management, love story, itinerary, guestbook, live countdown, and customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
